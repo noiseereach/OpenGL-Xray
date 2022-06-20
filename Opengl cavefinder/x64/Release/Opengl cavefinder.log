@@ -1,0 +1,9 @@
+﻿  DllMain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+Detours64.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'Detours64.lib(detours.obj)' or at 'C:\Users\peekm\Desktop\Opengl cavefinder\x64\Release\detours.pdb'; linking object as if no debug info
+Detours64.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'Detours64.lib(modules.obj)' or at 'C:\Users\peekm\Desktop\Opengl cavefinder\x64\Release\detours.pdb'; linking object as if no debug info
+Detours64.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'Detours64.lib(disasm.obj)' or at 'C:\Users\peekm\Desktop\Opengl cavefinder\x64\Release\detours.pdb'; linking object as if no debug info
+  Opengl cavefinder.vcxproj -> C:\Users\peekm\Desktop\Opengl cavefinder\x64\Release\Opengl cavefinder.dll
