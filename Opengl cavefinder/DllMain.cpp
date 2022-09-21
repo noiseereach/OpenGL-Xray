@@ -4,7 +4,7 @@ T_wglSwapBuffers pSwapBuffers = nullptr;
 
 BOOL __stdcall mySwapBuffers(HDC hDC)
 {
-	if (GetAsyncKeyState(0x58) & 1) {
+	if (GetAsyncKeyState(0x58) & 1) { // X Key
 		xray = !xray;
 	}
 
